@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Sujoy Datta. Copyright (c) 2018. All rights reserved.
+  ~
+  ~ To the person who is reading this..
+  ~ When you finally understand how this works, please do explain it to me too at sujoydatta26@gmail.com
+  ~ P.S.: In case you are planning to use this without mentioning me, you will be met with mean judgemental looks and sarcastic comments.
+  -->
+
+<resources>
+    <integer-array name="natural_numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="prime">
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>11</item>
+    </integer-array>
+    <integer-array name="fibonacci">
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="series4">
+        <item>1</item>
+        <item>6</item>
+        <item>13</item>
+        <item>22</item>
+        <item>33</item>
+    </integer-array>
+    <integer-array name="series5">
+        <item>6</item>
+        <item>11</item>
+        <item>21</item>
+        <item>36</item>
+        <item>56</item>
+    </integer-array>
+    <integer-array name="series6">
+        <item>20</item>
+        <item>19</item>
+        <item>17</item>
+        <item>14</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="series7">
+        <item>1</item>
+        <item>4</item>
+        <item>9</item>
+        <item>16</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="series8">
+        <item>0</item>
+        <item>3</item>
+        <item>8</item>
+        <item>15</item>
+        <item>24</item>
+    </integer-array>
+    <integer-array name="series9">
+        <item>2</item>
+        <item>9</item>
+        <item>28</item>
+        <item>65</item>
+        <item>126</item>
+    </integer-array>
+    <integer-array name="series10">
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>24</item>
+        <item>120</item>
+    </integer-array>
+    <integer-array name="series11">
+        <item>1</item>
+        <item>3</item>
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+    </integer-array>
+    <integer-array name="series12">
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <integer-array name="series13">
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+        <item>64</item>
+    </integer-array>
+    <integer-array name="series14">
+        <item>0</item>
+        <item>7</item>
+        <item>26</item>
+        <item>63</item>
+        <item>124</item>
+    </integer-array>
+</resources>

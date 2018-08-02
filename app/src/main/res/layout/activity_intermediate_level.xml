@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Sujoy Datta. Copyright (c) 2018. All rights reserved.
+  ~
+  ~ To the person who is reading this..
+  ~ When you finally understand how this works, please do explain it to me too at sujoydatta26@gmail.com
+  ~ P.S.: In case you are planning to use this without mentioning me, you will be met with mean judgemental looks and sarcastic comments.
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/levelbackground"
+    tools:context=".IntermediateLevel">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Level: "
+                        android:textSize="22sp"
+                        android:fontFamily="@font/orbitron"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginStart="130dp"
+                        android:textColor="@android:color/white"/>
+
+                    <TextView
+                        android:id="@+id/etCrackItLevelNumber"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="@font/orbitron"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginStart="10dp"
+                        android:textSize="22sp"/>
+
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="40dp"
+                    android:fontFamily="sans-serif"
+                    android:paddingLeft="8dp"
+                    android:text="These numbers follow a pattern"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="sans-serif"
+                    android:text="But i dont remember what it was!"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="32dp"
+            android:text="Can you crack it!?"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.V7.ThemeOverlay.AppCompat.Dialog"
+            android:textColor="@android:color/white"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            app:fontFamily="@font/orbitronfont" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal"
+            android:weightSum="5">
+
+            <EditText
+                android:id="@+id/etOne"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:clickable="false"
+                android:enabled="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:inputType="none"
+                android:text=""
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etTwo"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:clickable="false"
+                android:enabled="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:inputType="none"
+                android:text=""
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etThree"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:clickable="false"
+                android:enabled="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:inputType="none"
+                android:text=" "
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etFour"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:text=""
+                android:background="@null"
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="30sp" />
+
+            <EditText
+                android:id="@+id/etFive"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:clickable="false"
+                android:enabled="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:inputType="none"
+                android:text=""
+                android:textColor="@android:color/holo_green_light"
+                android:textSize="30sp" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/btnSubmitIntermediate"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/custombutton"
+            android:text="Guess!"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            app:fontFamily="@font/cutivemonofont" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="16dp">
+            <TextView
+                android:id="@+id/timerMin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_marginLeft="130dp"
+                android:textSize="40sp"
+                android:textColor="@android:color/holo_green_light"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=":"
+                android:textSize="40sp"
+                android:paddingLeft="8dp"
+                android:textColor="@android:color/holo_green_light"/>
+            <TextView
+                android:id="@+id/timerSec"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="40sp"
+                android:paddingLeft="8dp"
+                android:text="00"
+                android:textColor="@android:color/holo_green_light"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/hint"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:onClick="showHint"
+        android:src="@drawable/hintprev" />
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Sujoy Datta. Copyright (c) 2018. All rights reserved.
+  ~
+  ~ To the person who is reading this..
+  ~ When you finally understand how this works, please do explain it to me too at sujoydatta26@gmail.com
+  ~ P.S.: In case you are planning to use this without mentioning me, you will be met with mean judgemental looks and sarcastic comments.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Beginner"
+    android:orientation="vertical"
+    android:background="@drawable/levelbackground">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I am thinking of a number from 0 to 20."
+        android:fontFamily="sans-serif"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="40dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Can you guess it!?"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="32dp"
+        android:textSize="28sp"
+        app:fontFamily="@font/orbitronfont"
+        android:textAppearance="@style/Base.V7.ThemeOverlay.AppCompat.Dialog"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/etSubmit"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="165dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="30dp"
+        android:inputType="number"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_green_light"
+        android:background="@null"/>
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/custombutton"
+        android:text="Guess!"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        app:fontFamily="@font/cutivemonofont"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Guesses left: "
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:paddingTop="8dp"
+            android:layout_marginLeft="16dp"
+            android:textColor="@android:color/white"
+            app:fontFamily="@font/cutivemonofont"/>
+        <TextView
+            android:id="@+id/tvTries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginTop="8dp"
+            android:paddingTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+
+</LinearLayout>

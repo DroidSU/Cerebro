@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Sujoy Datta. Copyright (c) 2018. All rights reserved.
+  ~
+  ~ To the person who is reading this..
+  ~ When you finally understand how this works, please do explain it to me too at sujoydatta26@gmail.com
+  ~ P.S.: In case you are planning to use this without mentioning me, you will be met with mean judgemental looks and sarcastic comments.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.morningstar.cerebro"
+    android:versionCode="5"
+    android:versionName="2.1" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.morningstar.cerebro.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.morningstar.cerebro.Beginner"
+            android:label="Guess It"
+            android:screenOrientation="portrait"
+            android:theme="@style/BeginnerActivityTheme"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.morningstar.cerebro.IntermediateLevel"
+            android:label="Crack It"
+            android:screenOrientation="portrait"
+            android:theme="@style/BeginnerActivityTheme" />
+        <activity
+            android:name="com.morningstar.cerebro.Instructions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.morningstar.cerebro.AboutUs"
+            android:label="About Us"
+            android:screenOrientation="portrait"
+            android:theme="@style/BeginnerActivityTheme" />
+        <activity
+            android:name="com.morningstar.cerebro.HighScore"
+            android:label="High Scores"
+            android:screenOrientation="portrait"
+            android:theme="@style/BeginnerActivityTheme" />
+        <activity
+            android:name="com.morningstar.cerebro.SolveIt"
+            android:label="Solve It"
+            android:screenOrientation="portrait"
+            android:theme="@style/BeginnerActivityTheme"
+            android:windowSoftInputMode="adjustPan" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.morningstar.cerebro.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

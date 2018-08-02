@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Sujoy Datta. Copyright (c) 2018. All rights reserved.
+  ~
+  ~ To the person who is reading this..
+  ~ When you finally understand how this works, please do explain it to me too at sujoydatta26@gmail.com
+  ~ P.S.: In case you are planning to use this without mentioning me, you will be met with mean judgemental looks and sarcastic comments.
+  -->
+
+<resources>
+    <string-array name="hints">
+        <item>Natural Numbers</item>
+        <item>Prime Numbers</item>
+        <item>Fibonacci Series</item>
+        <item>b = a+k where k = 5 and k increases by 2</item>
+        <item>b = a + k where k = 5 and k increases by 5</item>
+        <item>b = a - k where k = 1 and k increases by 1</item>
+        <item>squares of the index</item>
+        <item>squares of the index - 1</item>
+        <item>cubes of the index + 1</item>
+        <item>Factorial of a number</item>
+        <item>Summation of natural numbers</item>
+        <item>N * (N+1)</item>
+        <item>b = (a*2)</item>
+        <item>(cube of index) - 1</item>
+    </string-array>
+</resources>

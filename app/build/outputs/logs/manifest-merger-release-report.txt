@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7d4138bd8b4de0a06c756516328cdd1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tastytoast-0.1.1.aar/27e75b199d5eb94af300a58604377aec/AndroidManifest.xml:2:1-14:12
+MERGED from [com.krsticdragan:autotypetextview:1.1] /root/.gradle/caches/transforms-1/files-1.1/autotypetextview-1.1.aar/b361bf52e35e831f9565a6f86044efd7/AndroidManifest.xml:2:1-17:12
+MERGED from [com.hanks:htextview-typer:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/7863cd92bb702ef05b535f0c19f29b5c/AndroidManifest.xml:2:1-16:12
+MERGED from [com.hanks:htextview-base:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-base-0.1.6.aar/ee7769439f537a7122a575ce22436100/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d31c7b5bcaeb72821df5bc84dcaa2439/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/be6452e965762f91a9ab0e945a8e1090/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /root/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/99fa4f5bcac4c77fa5e60744f655582a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/240e9d160cc52d9445c06933221aacbe/AndroidManifest.xml:17:1-22:12
+MERGED from [in.codeshuffle:typewriterview:1.0.5] /root/.gradle/caches/transforms-1/files-1.1/typewriterview-1.0.5.aar/519c3195a4758076ed8317f935e4efb1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f2324308fa4123e12c1a7dec7db2997b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da7642111d8e25bce482ca5f4f6c0a8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/97b27f5fb3e015abe2617db7e8ec63d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/45986b03aeb8efbac6852404dc7538f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/647392ae285785058c48933f1840b47d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e02b3b8f8c8cc1e58cf2cb06ee44a43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0fe8574caf4b796c13894040aaebe0bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e76aa7285a0abfc0360a9cac3716b11a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/847b45a74a845291b07e36c726ed91e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/097dcd9a85af80d325f3baba17f4abe2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a6ea5e5c7430978e7284133dcb7430bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7563ff0db16bf53994475c6a41128492/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/102b9934a2eea3af8bf962382b9e40e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5989042c2d5d775c2aa20f6a7243360/AndroidManifest.xml:17:1-22:12
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+	package
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:9:5-38
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:1-61:12
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:8:11-69
+application
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:11:5-59:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tastytoast-0.1.1.aar/27e75b199d5eb94af300a58604377aec/AndroidManifest.xml:11:5-12:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tastytoast-0.1.1.aar/27e75b199d5eb94af300a58604377aec/AndroidManifest.xml:11:5-12:19
+MERGED from [com.krsticdragan:autotypetextview:1.1] /root/.gradle/caches/transforms-1/files-1.1/autotypetextview-1.1.aar/b361bf52e35e831f9565a6f86044efd7/AndroidManifest.xml:11:5-15:19
+MERGED from [com.krsticdragan:autotypetextview:1.1] /root/.gradle/caches/transforms-1/files-1.1/autotypetextview-1.1.aar/b361bf52e35e831f9565a6f86044efd7/AndroidManifest.xml:11:5-15:19
+MERGED from [com.hanks:htextview-typer:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/7863cd92bb702ef05b535f0c19f29b5c/AndroidManifest.xml:11:5-14:19
+MERGED from [com.hanks:htextview-typer:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/7863cd92bb702ef05b535f0c19f29b5c/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/be6452e965762f91a9ab0e945a8e1090/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/be6452e965762f91a9ab0e945a8e1090/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /root/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/99fa4f5bcac4c77fa5e60744f655582a/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /root/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/99fa4f5bcac4c77fa5e60744f655582a/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.morningstar.cerebro.MainActivity
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.morningstar.cerebro.Beginner
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:29:9-34:58
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:31:13-37
+	android:windowSoftInputMode
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:30:13-37
+activity#com.morningstar.cerebro.IntermediateLevel
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:35:9-39:59
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:37:13-37
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:36:13-46
+activity#com.morningstar.cerebro.Instructions
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:41:13-41
+activity#com.morningstar.cerebro.AboutUs
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:43:9-47:60
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:45:13-37
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:47:13-57
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:44:13-36
+activity#com.morningstar.cerebro.HighScore
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:48:9-52:60
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:50:13-40
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:52:13-57
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:49:13-38
+activity#com.morningstar.cerebro.SolveIt
+ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:53:9-58:55
+	android:screenOrientation
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:55:13-37
+	android:windowSoftInputMode
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:58:13-52
+	android:theme
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:57:13-57
+	android:name
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml:54:13-36
+uses-sdk
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7d4138bd8b4de0a06c756516328cdd1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/7d4138bd8b4de0a06c756516328cdd1e/AndroidManifest.xml:20:5-44
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tastytoast-0.1.1.aar/27e75b199d5eb94af300a58604377aec/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tastytoast-0.1.1.aar/27e75b199d5eb94af300a58604377aec/AndroidManifest.xml:7:5-9:41
+MERGED from [com.krsticdragan:autotypetextview:1.1] /root/.gradle/caches/transforms-1/files-1.1/autotypetextview-1.1.aar/b361bf52e35e831f9565a6f86044efd7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.krsticdragan:autotypetextview:1.1] /root/.gradle/caches/transforms-1/files-1.1/autotypetextview-1.1.aar/b361bf52e35e831f9565a6f86044efd7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-typer:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/7863cd92bb702ef05b535f0c19f29b5c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-typer:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/7863cd92bb702ef05b535f0c19f29b5c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-base:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-base-0.1.6.aar/ee7769439f537a7122a575ce22436100/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-base:0.1.6] /root/.gradle/caches/transforms-1/files-1.1/htextview-base-0.1.6.aar/ee7769439f537a7122a575ce22436100/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d31c7b5bcaeb72821df5bc84dcaa2439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d31c7b5bcaeb72821df5bc84dcaa2439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/be6452e965762f91a9ab0e945a8e1090/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/be6452e965762f91a9ab0e945a8e1090/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /root/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/99fa4f5bcac4c77fa5e60744f655582a/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /root/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/99fa4f5bcac4c77fa5e60744f655582a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/240e9d160cc52d9445c06933221aacbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/240e9d160cc52d9445c06933221aacbe/AndroidManifest.xml:20:5-44
+MERGED from [in.codeshuffle:typewriterview:1.0.5] /root/.gradle/caches/transforms-1/files-1.1/typewriterview-1.0.5.aar/519c3195a4758076ed8317f935e4efb1/AndroidManifest.xml:7:5-9:41
+MERGED from [in.codeshuffle:typewriterview:1.0.5] /root/.gradle/caches/transforms-1/files-1.1/typewriterview-1.0.5.aar/519c3195a4758076ed8317f935e4efb1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f2324308fa4123e12c1a7dec7db2997b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f2324308fa4123e12c1a7dec7db2997b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da7642111d8e25bce482ca5f4f6c0a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da7642111d8e25bce482ca5f4f6c0a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/97b27f5fb3e015abe2617db7e8ec63d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/97b27f5fb3e015abe2617db7e8ec63d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/45986b03aeb8efbac6852404dc7538f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/45986b03aeb8efbac6852404dc7538f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/647392ae285785058c48933f1840b47d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/647392ae285785058c48933f1840b47d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e02b3b8f8c8cc1e58cf2cb06ee44a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1e02b3b8f8c8cc1e58cf2cb06ee44a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0fe8574caf4b796c13894040aaebe0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0fe8574caf4b796c13894040aaebe0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e76aa7285a0abfc0360a9cac3716b11a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e76aa7285a0abfc0360a9cac3716b11a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/847b45a74a845291b07e36c726ed91e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/847b45a74a845291b07e36c726ed91e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/097dcd9a85af80d325f3baba17f4abe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/097dcd9a85af80d325f3baba17f4abe2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a6ea5e5c7430978e7284133dcb7430bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a6ea5e5c7430978e7284133dcb7430bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7563ff0db16bf53994475c6a41128492/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7563ff0db16bf53994475c6a41128492/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/102b9934a2eea3af8bf962382b9e40e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/102b9934a2eea3af8bf962382b9e40e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5989042c2d5d775c2aa20f6a7243360/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5989042c2d5d775c2aa20f6a7243360/AndroidManifest.xml:20:5-44
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		ADDED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/Cerebro/app/src/main/AndroidManifest.xml

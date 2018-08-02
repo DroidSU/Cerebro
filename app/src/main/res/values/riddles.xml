@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="riddleQuestions">
+        <item>What language do people speak in without saying a word out loud?</item>
+        <item>I\'m the beginning of the end, and the end of time and space. I\'m essential to creation, and I surround every place. What am I?</item>
+        <item>What goes up and down but doesn\'t move?</item>
+        <item>My first is often at the front door. My second is found in the cereal family. My third is what most people want. My whole is one of the \'united states\'.</item>
+        <item>If a man carried my burden he would break his back. I am not big but leave silver in my tracks. What am I?</item>
+        <item>What can point in every direction but can\'t reach the destination by itself.</item>
+        <item>I reach for the sky, but clutch to the ground; sometimes I leave, but I\'m always around. What am I?</item>
+        <item>I am not clothes but I cover your body. The more I\'m used, the thinner I grow. What am I?</item>
+        <item>I come in many colors and I am very thin, I am found in every country, even in your home, I am very important, you can be very creative with me, I can even help you learn. What am I?</item>
+        <item>I am a path situated between natural masses. Remove my first letter and i am a path between man-made masses. What am I?</item>
+        <item>I only have two backbones and thousands of ribs. What am I?</item>
+        <item>What do you call two witches who live together?</item>
+        <item>There are two monkeys on a tree and one jumps off. Why does the other monkey jump too?</item>
+        <item>What is a comedians favorite food?</item>
+        <item>What is the name of the ugliest tree?</item>
+        <item>I can travel from there to here by disappearing, and here to there by reappearing. What am I?</item>
+        <item>How many times does the long hand of the clock pass the short hand between midnight one day and midnight the following day? As both hands are together at the starting time of midnight this does not count as a pass.</item>
+        <item>What is bought by the yard and worn by the foot?</item>
+        <item>If you drop me i am sure to crack. But give me a smile and i will always smile back.</item>
+        <item>What always runs but never walks, often murmurs but never talks, has a bed but never sleeps, has a mouth but never eats?</item>
+        <item>Its red, blue, purple and green. No one can reach it, not even the queen.</item>
+        <item>The one who makes it always sells it. The one who buys it never uses it. THe one who uses it never knows he's using it.</item>
+        <item>Whats black when you get it, red when you use it, and white when you are done with it?</item>
+        <item>Each morning i appear to lie at your feet. All day I will follow no matter how fast you run, yet i nearly perish in the mid day sun.</item>
+        <item>My life can be measured in hours. I serve by being devoured. Thin, i am quick. Fat, i am slow. Wind is my foe.</item>
+        <item>You have heard me before, yet you hear me again. Then i die until u call me again.</item>
+        <item>Three lives I have. Gentle enough to soothe the skin. Light enough to caress the sky, hard enough to crack rocks.</item>
+        <item>At the sound of me, men may dream or stamp their feet. At the sound of me, women may laugh or sometimes weep.</item>
+        <item>I build up castles, I tear down mountains. I make some men blind, I help others to see.</item>
+        <item>Reaching stiffly for the sky, I bare my fingers when its cold. In warmth I wear an emerald glove and in between I dress in gold.</item>
+        <item>Whoever makes it, tells it not. Whoever takes it, knows it not. Whoever knows it, wants it not.</item>
+        <item>You saw me where i never was and where i could not be. And yet within that very place, my face you often see.</item>
+        <item>Say my name and i disappear.</item>
+        <item>I am always hungry and i will die if not fed, whatever i touch will soon turn red.</item>
+        <item>One who makes it, has no need of it. One who buys it, has no use for it. One who uses it can neither see nor feel it. What is it?</item>
+        <item>what can travel around the world while staying in a corner?</item>
+        <item>I am tall when I am young and I am short when I am old. What am I?</item>
+        <item>What has hands but can not clap?</item>
+        <item>What has an eye but can not see?</item>
+        <item>What gets wetter and wetter the more it dries?</item>
+        <item>Paul\'s height is six feet, he is an assistant at a butcher\'s shop, and wears size 9 shoes. What does he weigh?</item>
+        <item>What kind of room has no doors or windows?</item>
+        <item>Which word in the dictionary is spelled incorrectly?</item>
+        <item>Feed me and I live, yet give me a drink and I die.</item>
+        <item>What can you catch but not throw?</item>
+        <item>What is always coming but never arrives?</item>
+        <item>What word becomes shorter when you add two letters to it?</item>
+        <item>What has 4 eyes but can\’t see?</item>
+    </string-array>
+
+
+    <string-array name="riddleAnswers">
+        <item>body language</item>
+        <item>e</item>
+        <item>the road</item>
+        <item>matrimony</item>
+        <item>snail</item>
+        <item>finger</item>
+        <item>tree</item>
+        <item>soap</item>
+        <item>paper</item>
+        <item>valley</item>
+        <item>railroad</item>
+        <item>broommates</item>
+        <item>monkey see monkey do</item>
+        <item>pun-cake</item>
+        <item>yew</item>
+        <item>t</item>
+        <item>21</item>
+        <item>carpet</item>
+        <item>mirror</item>
+        <item>river</item>
+        <item>rainbow</item>
+        <item>coffin</item>
+        <item>charcoal</item>
+        <item>shadow</item>
+        <item>candle</item>
+        <item>echo</item>
+        <item>water</item>
+        <item>music</item>
+        <item>sand</item>
+        <item>tree</item>
+        <item>counterfeit money</item>
+        <item>reflection</item>
+        <item>silence</item>
+        <item>fire</item>
+        <item>coffin</item>
+        <item>stamp</item>
+        <item>candle</item>
+        <item>clock</item>
+        <item>needle</item>
+        <item>towel</item>
+        <item>meat</item>
+        <item>mushroom</item>
+        <item>incorrectly</item>
+        <item>fire</item>
+        <item>cold</item>
+        <item>tomorrow</item>
+        <item>short</item>
+        <item>mississippi</item>
+    </string-array>
+</resources>
